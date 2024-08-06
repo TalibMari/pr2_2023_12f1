@@ -1,0 +1,19 @@
+Configure Git
+git config --global user.name Talib
+git config --global user.email talibmari123@gmail.com
+
+mkdir 
+	make directory => Create Folder
+	mkdir FOlderName
+
+Cd 	Change Directory => Move Towards Folder
+	cd FolderName
+
+	git init                	-> Initilize Feature of git
+	git status			-> Check Status Of Files
+	
+	git add -A			-> Add Files To Unstage
+	git commit -m 'Message'		-> Add Files To Local Repository
+	git checkout FileName.html	-> Recover Deleted Data Back
+	
+ 
